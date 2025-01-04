@@ -1,0 +1,6 @@
+[submodule "flipkart_grid_backend"]
+	path = flipkart_grid_backend
+	url = git@github.com:heyronjmilton/flipkart_grid_backend.git
+[submodule "flipkart-grid-worker-interface"]
+	path = flipkart-grid-worker-interface
+	url = git@github.com:heyronjmilton/flipkart-grid-worker-interface.git
